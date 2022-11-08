@@ -16,9 +16,9 @@
 		<description>Paket ini hanya bisa diinstall untuk spotifi versi ****</description>
 	</descriptionlist>
 	<screenshots></screenshots>
+	<a class="btn btn-xs btn-primary" href="debs/com.theouzu.spotilife_1.5_iphoneos-arm.deb">download deb</a>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
 	<links></links>
-	<a class="btn btn-xs btn-primary" href="debs/com.theouzu.spotilife_1.5_iphoneos-arm.deb">download deb</a>
 </package>
