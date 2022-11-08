@@ -26,3 +26,8 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.theouzu.spotilife
+Section: Tweaks
+Depends: firmware (<8.0)
+Description: This is a sample old package. Firmware should be lower than 7.0
+Depiction: https://hi-theo.github.io/cydia/depictions/?p=com.theouzu.spotilife
